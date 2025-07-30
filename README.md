@@ -5,10 +5,10 @@ A comprehensive collection of machine learning algorithms, neural networks, and 
 ## 🎯 Purpose
 This repository serves as my learning laboratory where I:
 
- > Build ML algorithms from scratch to understand the underlying mathematics
-Practice and reinforce core ML/NN/LLM concepts
-Experiment with different implementations and approaches
-Document my learning journey in machine learning and deep learning
+- Build ML algorithms from scratch to understand the underlying mathematics
+- Practice and reinforce core ML/NN/LLM concepts
+- Experiment with different implementations and approaches
+- Document my learning journey in machine learning and deep learning
 
 
 ## 📚 Current Implementations
