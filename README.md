@@ -22,9 +22,9 @@ Implements gradient descent optimization and includes visualization and performa
 ## 🤝 Contributing
 This is primarily a personal learning repository, but if you'd like to:
 
-Suggest improvements to existing implementations
-Point out bugs or mathematical errors
-Recommend additional algorithms to implement
+- Suggest improvements to existing implementations
+- Point out bugs or mathematical errors
+- Recommend additional algorithms to implement
 
 Feel free to open an issue or submit a pull request!
 
