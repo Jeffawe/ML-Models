@@ -19,7 +19,7 @@ Linear & Polynomial Regression. Built from scratch using NumPy
 
 Implements gradient descent optimization and includes visualization and performance metrics
 
-### 🔢 Neural Network
+### 🧠 Neural Network
 
 Neural Network. Built from scratch using NumPy
 <br>
